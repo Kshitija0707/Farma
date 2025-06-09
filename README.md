@@ -2,11 +2,11 @@
 Agriculture Crop Prediction Using Weather with Tools  and Crop Product Suggestions for Farmers
 
 The project focuses on:   
- -Weather Forecasting: A 6-day weather prediction feature to assist in irrigation and 
+ Weather Forecasting: A 6-day weather prediction feature to assist in irrigation and 
 harvesting planning.   
- -Crop Recommendation System: An ML model trained on historical agricultural data to 
+ Crop Recommendation System: An ML model trained on historical agricultural data to 
 recommend suitable crops.
- -E-commerce Integration: A marketplace for farmers to buy farming essentials.
+ E-commerce Integration: A marketplace for farmers to buy farming essentials.
 
 Technology Stack:
   - Frontend: HTML, CSS, JavaScript, Tailwind CSS   
